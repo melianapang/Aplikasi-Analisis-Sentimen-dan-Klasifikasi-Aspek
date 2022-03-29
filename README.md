@@ -1,5 +1,5 @@
 # Aplikasi-Analisis-Sentimen-dan-Klasifikasi-Aspek
-Reseearch entitled: "Analisis Sentimen Mahasiswa di Surabaya Terhadap Pelayanan Vaksinasi COVID-19 Menggunakan Beberapa Classifier".
+Reseearch entitled: "Analisis Sentimen Mahasiswa di Surabaya Terhadap Pelayanan Vaksinasi COVID-19 Menggunakan Beberapa Classifier" or
 "Analysis of Student Sentiment in Surabaya Towards COVID-19 Vaccination Services Using Several Classifiers".
 
 The machine learning models that used in this application are already parameter tuned using GridSearchCV and handled imbalance dataset using RandomUnderSampler.
